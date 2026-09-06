@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+button,
+input {
+  font-family: inherit;
+}
